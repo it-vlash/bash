@@ -1,2 +1,2 @@
 # bash
-Creating backup script via #bash
+Backup script via #bash
